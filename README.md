@@ -23,3 +23,6 @@
 
     y estas tienen una relacion de dependencia nunidireccional donde la clase CarroCompra depende directamente de Calculadora
    
+<img width="1449" height="480" alt="image" src="https://github.com/user-attachments/assets/d5fb6559-4043-4c8e-aeb9-4692b034b536" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f786c64-5370-47fa-8dd6-2aa67961df95" />
